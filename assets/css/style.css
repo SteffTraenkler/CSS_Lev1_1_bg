@@ -1,0 +1,11 @@
+section{
+    background: linen;
+}
+h1{
+    background: lightblue;
+}
+article{
+    background-image: url('../img/photo-1639174277065-0d3df2d6290e.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
